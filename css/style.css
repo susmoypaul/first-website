@@ -1,0 +1,25 @@
+.my-card-img{
+    width: 50px;
+    align-self: center;
+}
+.card{
+    border: none !important;
+}
+.my-icon{
+    width: 50px;
+    align-self:center;
+}
+.hero-background{
+    background-image: url('https://image.slidesdocs.com/responsive-images/background/inside-the-matrix-abstract-code-blocks-rendered-in-3d-camera-navigating-through-the-digital-space-powerpoint-background_ed9449c238__960_540.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover; /* This ensures that the background image covers the entire body */
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+    background-attachment: fixed;
+    height: 400px;
+    
+}
+.hero-title{
+    margin-top: 125px;
+}
+.nav-logo{
+    width: 125px;
+}
